@@ -8,6 +8,10 @@ body {
 	overflow: hidden;
 }
 
+#intro {
+	font-size : clamp(1.5rem, 2vw, 5rem);
+}
+
 h1 {
 	color: white;
 	top: 50%;
